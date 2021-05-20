@@ -1,0 +1,12 @@
+How To Design Better Buttons, by Nick Babich, Smashing Magazine, November 9 2016.
+https://www.smashingmagazine.com/2016/11/a-quick-guide-for-designing-better-buttons/
+
+7 rules for mobile UI button design, Justinmind on Medium, June 8 2017.
+https://uxplanet.org/7-rules-for-mobile-ui-button-design-e9cf2ea54556
+
+https://boagworld.com/design/pattern-library/
+https://boagworld.com/design/iterative-ui-design/
+
+https://www.interaction-design.org/literature/article/principle-of-consistency-and-standards-in-user-interface-design
+
+http://styleguides.io/examples
